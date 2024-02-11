@@ -1,0 +1,24 @@
+Write a java program to print below pattern
+-----*
+----***
+---*****
+--*******
+-*********
+
+first taking user input for rows,character
+first creating for loop for rows
+after creating two inner for loops for spaces and starts
+for spaces logic is j<=n-i+1 for 5,4,3,2,1
+for starts logic is odd starts will be printing here
+for inner for which created for printing starts there will take 
+j<=2*i+1-->2*1-1=1,3,5,7,9
+finally for outer for loop printing next line
+
+Second solution:
+Creating a table:
+rows    spaces(j<=n-i+1)            starts(j<=2*i-1)
+1       5 (5-1+1)=5                  1 (2*1-1)=1 
+2       4 (5-2+1)=4                  3 (2*2-1)=3
+3       3 (5-3+1)=3                  5 (2*3-1)=5
+4       2 (5-4+1)=2                  7 (2*4-1)=7
+5       1 (5-5+1)=1                  9 (2*5-1)=9

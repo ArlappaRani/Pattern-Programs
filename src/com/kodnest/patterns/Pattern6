@@ -1,0 +1,8 @@
+*****
+****
+***
+**
+*
+take user inputs are rows,columns,character to be printed
+The logic is starts are decremented by  one from row 2to row 5
+here columns(j)<=row-i+1

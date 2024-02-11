@@ -1,0 +1,13 @@
+Write a java program to create below pattern
+-----*****
+----****
+---***
+--**
+-*
+
+first taking user input for n,character
+first taking outer for loop for rows
+under this for loop taking two for loops for  spaces(j<=n-i+1) where
+n=5,i for example 1-->5-1+1=5 starts
+                      5-2+1=4like that the logic work 5,4,3,2,1
+spaces(j<=n-i+1)                      

@@ -1,0 +1,12 @@
+write a java program for printing below pattern
+-----*
+----***
+---*****
+--*******
+-*********
+--*******
+---*****
+----***
+-----*
+
+rows(i)         spaces                starts 

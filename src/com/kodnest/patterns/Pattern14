@@ -1,0 +1,14 @@
+Write a java program to print below pattern:
+-----*****
+-----*   *
+-----*   *        [- means spaces]
+-----*   *
+-----*****
+
+taking the user input as number 
+taking the user input as character to be printed
+taking for loop for rows
+taking inner for loop for printing spaces in pattern(j<=n)
+taking one more loop for printing the starts and spaces in this spaces 
+and starts will be printed based on if condition(i==1,5 & j==1,5)
+outer for loop for  printing the next line

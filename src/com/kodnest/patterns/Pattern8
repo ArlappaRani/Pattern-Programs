@@ -1,0 +1,13 @@
+Write a java program to print below pattern
+
+-*
+--**
+---***
+----****
+-----*****
+
+first taking user input for n value
+taking user input for character to be printed
+creating a for loop for no of rows
+under for loop creating two for loops for spaces(j<=i),starts(j<=i)
+finally for outer loop printing a next line statement

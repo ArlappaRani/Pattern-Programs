@@ -1,0 +1,10 @@
+ -----*****
+ -----*****
+ -----*****
+ -----*****
+ -----*****
+ In the above pattern  - means spaces
+ here we print 5 spaces followed by 5 starts
+ The pattern will be divided into parts
+ for spaces j<=n
+ for starts i<=n 

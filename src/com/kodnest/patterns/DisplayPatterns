@@ -1,0 +1,21 @@
+
+*****
+using for loop for printing 5 starts horizontally
+printing star
+will print starts using while and do while loops
+
+//pattern 2:
+*
+*
+*
+*
+*
+
+//Pattern 3:
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * * 
+In this pattern for rows we taking one loop(i)
+For columns taking One loop(j)

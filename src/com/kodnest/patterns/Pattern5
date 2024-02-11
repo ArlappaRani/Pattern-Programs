@@ -1,0 +1,13 @@
+Write a java program to print below pattern using while,for,do while
+ *
+ **
+ ***
+ ****
+ *****
+ Taking user input for rows,columns 
+ Taking the user input of which character to be printed
+ here the logic is in first  row we have to print single character like that each row 
+ character will be incremented extra one character
+ So the column value will be printed based on rows so we take j(column)<=i(rows)
+ 
+ 

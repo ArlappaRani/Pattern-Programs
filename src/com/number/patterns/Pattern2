@@ -1,0 +1,12 @@
+Write a java program to print below pattern:
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5 
+
+First taking the input from the user for number(n)
+using for loop for creating a rows(i<=n)
+Using one more inner for loop for creating a numbers in each 
+row we use(j<=n) and printing j values
+In outer for loop printing a next line

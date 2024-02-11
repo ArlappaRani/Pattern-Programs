@@ -1,0 +1,13 @@
+Write a java program to print below pattern:
+-----*
+-----**
+-----* *
+-----*  *
+-----*****
+
+taking a user input for number and character to be printed
+taking the for loop for creating rows
+taking the inner for loop for creating spaces(j<=i) and starts and
+spaces will take condition if(j==i||j==1||i==5) print starts else 
+print spaces
+in outer for loop print next line
